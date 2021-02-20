@@ -1,2 +1,2 @@
 # SLIDESHOW
-This "slider" was made based on an online javascript course from B7Web Note: The Next and Previous buttons have no texture!
+"SlideShow" done in JS Native, based on the B7Web online course Note: The Next and Previous buttons have no texture!
